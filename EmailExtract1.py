@@ -3,10 +3,9 @@
 """
 
 imap_server = "imap.gmail.com"
-email_addr = "narendrakachare7@gmail.com"
-pwd = "avboaxahzanvntxg"
-# email_addr = "truelife2281@gmail.com"
-# pwd = "scpsngexkqyhyvvx"
+email_addr = "______@gmail.com"
+pwd = "______"
+
 
 
 
